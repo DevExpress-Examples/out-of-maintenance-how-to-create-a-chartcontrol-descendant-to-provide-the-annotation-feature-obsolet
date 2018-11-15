@@ -1,3 +1,17 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/WpfApplication1/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/WpfApplication1/MainWindow.xaml.vb))
+* [MainWindow.xaml.cs](./CS/WpfApplication1/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/WpfApplication1/MainWindow.xaml.vb))
+* [Annotation.cs](./CS/WpfApplication1/MyChartControl/Annotation.cs) (VB: [AnnotationPanel.vb](./VB/WpfApplication1/MyChartControl/AnnotationPanel.vb))
+* [AnnotationPanel.cs](./CS/WpfApplication1/MyChartControl/AnnotationPanel.cs) (VB: [AnnotationPanel.vb](./VB/WpfApplication1/MyChartControl/AnnotationPanel.vb))
+* [AnotationCollection.cs](./CS/WpfApplication1/MyChartControl/AnotationCollection.cs) (VB: [AnotationCollection.vb](./VB/WpfApplication1/MyChartControl/AnotationCollection.vb))
+* [AnotationPresenter.cs](./CS/WpfApplication1/MyChartControl/AnotationPresenter.cs) (VB: [AnotationPresenter.vb](./VB/WpfApplication1/MyChartControl/AnotationPresenter.vb))
+* [MyChartControl.cs](./CS/WpfApplication1/MyChartControl/MyChartControl.cs) (VB: [MyChartControl.vb](./VB/WpfApplication1/MyChartControl/MyChartControl.vb))
+* [SizeHelper.cs](./CS/WpfApplication1/MyChartControl/SizeHelper.cs) (VB: [SizeHelper.vb](./VB/WpfApplication1/MyChartControl/SizeHelper.vb))
+* [Generic.xaml](./CS/WpfApplication1/Themes/Generic.xaml) (VB: [Generic.xaml](./VB/WpfApplication1/Themes/Generic.xaml))
+* [VieweModel.cs](./CS/WpfApplication1/VieweModel.cs) (VB: [VieweModel.vb](./VB/WpfApplication1/VieweModel.vb))
+<!-- default file list end -->
 # How to create a ChartControl descendant to provide the annotation feature (Obsolete) 
 
 
