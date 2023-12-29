@@ -1,8 +1,3 @@
-<!-- default badges list -->
-![](https://img.shields.io/endpoint?url=https://codecentral.devexpress.com/api/v1/VersionRange/134061411/15.1.7%2B)
-[![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T302272)
-[![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
-<!-- default badges end -->
 <!-- default file list -->
 *Files to look at*:
 
@@ -18,9 +13,6 @@
 * [VieweModel.cs](./CS/WpfApplication1/VieweModel.cs) (VB: [VieweModel.vb](./VB/WpfApplication1/VieweModel.vb))
 <!-- default file list end -->
 # How to create a ChartControl descendant to provide the annotation feature (Obsolete) 
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t302272)**
-<!-- run online end -->
 
 
 Starting from version 16.1, we introduced a new built-in feature for annotations. Please review the <a href="https://documentation.devexpress.com/#WPF/CustomDocument115898">Annotations</a> help topic.<br>This example demonstrates how to create a ChartControl descendant with the Annotations collection. The AnotationPresenter class is used to show an annotation item inside an extra layer - the AnnotationPanel class instance.
